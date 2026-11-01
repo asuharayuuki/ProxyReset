@@ -1,0 +1,6 @@
+ic_cloud.xml, ic_power.xml, and ic_arrow_down.xml are adapted from Google Material Icons.
+License: Apache License 2.0 (LICENSE-MaterialIcons).
+Sources: https://github.com/google/material-design-icons
+src/file/cloud/materialicons/24px.svg
+src/action/power_settings_new/materialicons/24px.svg
+src/hardware/keyboard_arrow_down/materialicons/24px.svg
